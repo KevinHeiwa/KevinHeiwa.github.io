@@ -33,4 +33,9 @@
 
 - (arXiv) UpgradeShield: Detecting Logic and State Inconsistencies in Smart Contract Upgrades via Differential Testing.<br>
   Wei Li, Yuxin Su, Yuhong Nan, **Kaiwen Ning**, Jingwen Zhang, Zibin Zheng
-  
+
+- (/) Performance Modeling and Analysis of PoW-based Public Blockchain System with Network Calculus.<br>
+  **Kaiwen Ning**, Hao Wang
+
+- (/) Traffic Management and Resource Occupancy Optimization in VNF Hybrid-Expansion.<br>
+  **Kaiwen Ning**, Hao Wang, Zhiheng Zhang
